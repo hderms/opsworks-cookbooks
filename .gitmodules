@@ -1,0 +1,3 @@
+[submodule "redisio"]
+	path = redisio
+	url = https://github.com/brianbianco/redisio.git
