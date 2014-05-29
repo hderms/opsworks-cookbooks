@@ -2,5 +2,5 @@
 	path = redisio
 	url = https://github.com/brianbianco/redisio.git
 [submodule "chef-ulimit"]
-	path = chef-ulimit
+	path = ulimit
 	url = https://github.com/bmhatfield/chef-ulimit.git
